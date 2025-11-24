@@ -2,6 +2,7 @@
 
 A mobile tool for analyzing NFC tags (especially MIFARE Classic) and identifying common security misconfigurations.
 This project aims to provide an educational, research-oriented NFC security auditing tool that works on commodity Android hardware.
+Currently it supports Android 7.0.
 
 ## Features (Planned)
 
