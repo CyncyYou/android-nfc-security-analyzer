@@ -28,7 +28,7 @@ This project demonstrates how much security analysis can be done using only Andr
 
 # Tech Stack
 
-- Android (Kotlin)
+- Android (Kotlin + Java)
 
 - NFC APIs: NfcAdapter, MifareClassic, Tag, IsoDep
 
